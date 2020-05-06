@@ -1,0 +1,20 @@
+# IDE
+**/.vscode/*
+**/.idea/*
+
+# Python
+**/bin/*
+**/lib/*
+**/share/*
+**/include/*
+**/__pycache__/*
+**/lib64
+**/pyvenv.cfg
+**/pip-selfcheck.json
+
+# Build
+**/build/*
+**/*.egg-info/*
+
+# Regular
+**/.DS_Store
